@@ -2,7 +2,7 @@
 
 ---
 
-## Question 1 : Plotting frequency response of a system.
+## Question 1 : Plot frequency response of a system.
 
 In this `app` you can add arbitrary pole(s) and zero(s) to the system and plot the frequency response of it.
 
